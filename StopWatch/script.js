@@ -13,14 +13,7 @@ function updateDisplay() {
   display.textContent = `${minutes.toString().padStart(2, "0")}:${seconds.toString().padStart(2, "0")}`;
 }
 
-/* startTimer:
-    * 1. Check if timer is already running
-    * 2. If not, start the timer
-    * 3. Update the display every second
-    * 4. If seconds reach 60, reset seconds to 0 and increment minutes by 1
-    * 5. If minutes reach 60, reset minutes to 0
-    * 6. If timer is already running, do nothing
-*/
+
 function startTimer() {
   if (!isRunning) {
     isRunning = true;
