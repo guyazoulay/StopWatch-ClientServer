@@ -23,3 +23,4 @@ This project demonstrates basic HTTP requests and server-side handling using Exp
    ```bash
    git clone <https://github.com/guyazoulay/StopWatch-ClientServer.git>
    cd <https://github.com/guyazoulay/StopWatch-ClientServer.git>
+   npm install 
