@@ -31,4 +31,4 @@ The stopwatch provides the following features:
 
 This project is licensed under the [MIT License](LICENSE).
 
-Developed by [Guy Azoulay]
+Developed by Guy Azoulay
