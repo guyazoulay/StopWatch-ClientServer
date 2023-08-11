@@ -1,4 +1,5 @@
 Hello Shahar!
 In here i'll give a short brief of how to run the code.
+run npm install in aim to download all the nessecry modules.
 simply run "node ./server.js" in the terminal.
 then open the browser and go to "http://localhost:5000/ and thats it.
